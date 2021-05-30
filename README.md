@@ -1,0 +1,1 @@
+Hello everyone, I'm *Bakary CAMARA*, and this my **first github project repository** as a **ALX** student, and I'm proud of it.
